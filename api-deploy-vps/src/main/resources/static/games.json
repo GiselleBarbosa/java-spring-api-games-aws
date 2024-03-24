@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Final Fantasy X",
+    "developer": "Square Enix",
+    "genre": "RPG",
+    "platform": "PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Vita, Microsoft Windows",
+    "release_date": "2001",
+    "image": "<Image_URL>",
+    "rating": "9.2/10"
+  },
+  {
+    "title": "Final Fantasy X-2",
+    "developer": "Square Enix",
+    "genre": "RPG",
+    "platform": "PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Vita, Microsoft Windows",
+    "release_date": "2003",
+    "image": "<Image_URL>",
+    "rating": "8.5/10"
+  },
+  {
+    "title": "Final Fantasy XII",
+    "developer": "Square Enix",
+    "genre": "RPG",
+    "platform": "PlayStation 2, PlayStation 4, Microsoft Windows, Nintendo Switch, Xbox One",
+    "release_date": "2006",
+    "image": "<Image_URL>",
+    "rating": "9/10"
+  },
+  {
+    "title": "Genshin Impact",
+    "developer": "miHoYo",
+    "genre": "Action RPG",
+    "platform": "PlayStation 4, Microsoft Windows, iOS, Android",
+    "release_date": "2020",
+    "image": "<Image_URL>",
+    "rating": "9/10"
+  },
+  {
+    "title": "Need for Speed: Underground 2",
+    "developer": "EA Black Box",
+    "genre": "Racing",
+    "platform": "PlayStation 2, Xbox, Microsoft Windows, GameCube",
+    "release_date": "2004",
+    "image": "<Image_URL>",
+    "rating": "8.8/10"
+  },
+  {
+    "title": "The Last of Us",
+    "developer": "Naughty Dog",
+    "genre": "Action-adventure, survival horror",
+    "platform": "PlayStation 3, PlayStation 4",
+    "release_date": "2013",
+    "image": "<Image_URL>",
+    "rating": "9.5/10"
+  },
+  {
+    "title": "God of War",
+    "developer": "Santa Monica Studio",
+    "genre": "Action-adventure",
+    "platform": "PlayStation 2, PlayStation 3, PlayStation 4",
+    "release_date": "2005",
+    "image": "<Image_URL>",
+    "rating": "9.5/10"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo",
+    "genre": "Action-adventure",
+    "platform": "Nintendo Switch",
+    "release_date": "2017",
+    "image": "<Image_URL>",
+    "rating": "10/10"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "genre": "Action RPG",
+    "platform": "PlayStation 4, Xbox One, Microsoft Windows, Nintendo Switch",
+    "release_date": "2015",
+    "image": "<Image_URL>",
+    "rating": "9.3/10"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo",
+    "genre": "Platformer",
+    "platform": "Nintendo Switch",
+    "release_date": "2017",
+    "image": "<Image_URL>",
+    "rating": "10/10"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "genre": "Action-adventure",
+    "platform": "PlayStation 4, Xbox One, Microsoft Windows",
+    "release_date": "2018",
+    "image": "<Image_URL>",
+    "rating": "9.8/10"
+  },
+  {
+    "title": "The Last of Us Part II",
+    "developer": "Naughty Dog",
+    "genre": "Action-adventure, survival horror",
+    "platform": "PlayStation 4",
+    "release_date": "2020",
+    "image": "<Image_URL>",
+    "rating": "10/10"
+  },
+  {
+    "title": "Final Fantasy VII Remake",
+    "developer": "Square Enix",
+    "genre": "Action RPG",
+    "platform": "PlayStation 4",
+    "release_date": "2020",
+    "image": "<Image_URL>",
+    "rating": "9.5/10"
+  }
+]
